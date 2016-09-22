@@ -3,17 +3,19 @@ using System.Collections;
 
 public class Movement : MonoBehaviour {
 
-    public float horizontalMOV = 0;
-    public float VerticalMOV = 0;
+   
     public float speed = 0;
     public GameObject Player;
 
     private CharacterController _charController;
     private Boundary player_POS;
+    private float horizontalMOV = 0;
+    private float VerticalMOV = 0;
 
 
-// Use this for initialization
-void Start () {
+
+    // Use this for initialization
+    void Start () {
         _charController = GetComponent<CharacterController>();
 
         //needed to direct boundary to the main camera version.
