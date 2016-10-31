@@ -3,6 +3,7 @@ using System.Collections;
 
 public class BulletS : MonoBehaviour {
 
+	 //put object in the inspector
      [SerializeField] private GameObject pbulletPrefab;
      private GameObject pbullet;
 

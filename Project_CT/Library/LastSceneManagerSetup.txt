@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Player/Player_envriorment.unity
+- path: Assets/Scenes/Bullet_Patterns/Round.unity
   isLoaded: 1
   isActive: 1
