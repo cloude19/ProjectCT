@@ -8,7 +8,6 @@ public class Three_Shot : MonoBehaviour {
 
 	public float rate = 0;
 	public float stream_delay = 0;
-	private bool allow_shot = true;
 	int x = 0;
 
 	// Use this for initialization
@@ -28,10 +27,10 @@ public class Three_Shot : MonoBehaviour {
 	IEnumerator bullet()
 	{
 		pbulletPrefab.transform.position = gameObject.transform.position;
-		Instantiate(pbulletPrefab);
 		//allows bullets to flow in the direction of the source object
 		pbulletPrefab.transform.rotation = this.transform.rotation;
-		yield return new WaitForSeconds(rate);
+		Instantiate(pbulletPrefab);
+		yield return new WaitForSeconds(rate*Time.deltaTime);
 		x = 0;
 	}
 }

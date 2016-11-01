@@ -1,8 +1,6 @@
-C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\Assembly-CSharp.dll
 C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\Assembly-CSharp.pdb
 C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\UnityEditor.dll
-C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\UnityEngine.Analytics.dll
 C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\UnityEngine.dll
 C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\UnityEngine.Networking.dll
 C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\UnityEngine.UI.dll
@@ -18,6 +16,6 @@ C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\UnityEngine.
 C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\UnityEditor.xml
 C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\UnityEngine.UI.xml
 C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\UnityEngine.Networking.xml
-C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\obj\Debug\Assembly-CSharp.dll
 C:\Users\troyc\Documents\GitHub\ProjectCT\Project_CT\obj\Debug\Assembly-CSharp.pdb
