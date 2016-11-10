@@ -38,7 +38,7 @@ public class Search : MonoBehaviour {
 		//allows bullets to flow in the direction of the source object
 		pbulletPrefab.transform.rotation = this.transform.rotation;
 		Instantiate(pbulletPrefab);
-		yield return new WaitForSeconds(rate);
+		yield return new WaitForSeconds(rate*Time.deltaTime);
 		x = 0;
 	}
 }    

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Bullet_Patterns/Round.unity
+- path: Assets/Scenes/Player/Shield_Test.unity
   isLoaded: 1
   isActive: 1
